@@ -2,4 +2,4 @@
 
 RTL design with testbench to verify the functionality.
 
-Please include NV_DW02_TREE for the synthesis.
+Please include NV_DW02_tree.v for the synthesis.
